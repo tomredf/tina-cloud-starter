@@ -30,9 +30,9 @@
     }
   },
   "theme": {
-    "color": "blue",
-    "font": "sans",
-    "icon": "boxicon",
+    "color": "green",
+    "font": "lato",
+    "icon": "heroicon",
     "darkMode": "system"
   }
 }
