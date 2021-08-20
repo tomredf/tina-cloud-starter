@@ -24,7 +24,7 @@ blocks:
         link: /posts
       - label: Read Blog
         type: link
-        icon: false
+        icon: true
         link: /posts
     image:
       src: >-
