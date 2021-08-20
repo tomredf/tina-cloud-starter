@@ -1,6 +1,6 @@
 ---
 blocks:
-  - tagline: ''
+  - tagline: This is a test tagline
     headline: Welcome to the Tina Starter.
     text: >
       **This** project is set up to show you the basics of working with Tina.
